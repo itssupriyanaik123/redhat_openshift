@@ -1,4 +1,4 @@
 # redhat_openshift
 
 
-This is practical on codenvy.
+This is Cloud practical on codenvy.
